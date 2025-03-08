@@ -19,7 +19,7 @@ subtitle = "A selection of tech, house and music ideas, projects and things I do
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/Riles2024.jpg"
+src = "img/Riles-square.jpg"
 
 [article]
 headingAnchor = false
