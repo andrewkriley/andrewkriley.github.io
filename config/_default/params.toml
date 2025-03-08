@@ -10,11 +10,7 @@ customText = ""
 
 [dateFormat]
 published = "Mar 08, 2025"
-<<<<<<< HEAD
-lastUpdated = "Jan 08, 2025 15:04 AEDT"
-=======
 lastUpdated = "Mar 08, 2025 15:04 AEDT"
->>>>>>> v0.1
 
 [sidebar]
 #emoji = "🍥"
