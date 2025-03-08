@@ -10,11 +10,15 @@ customText = ""
 
 [dateFormat]
 published = "Mar 08, 2025"
+<<<<<<< HEAD
 lastUpdated = "Jan 08, 2025 15:04 AEDT"
+=======
+lastUpdated = "Mar 08, 2025 15:04 AEDT"
+>>>>>>> v0.1
 
 [sidebar]
 #emoji = "🍥"
-subtitle = "A selection of technology, home and music ideas, projects and things I build, make or create."
+subtitle = "Building, creating, leading: my portfolio of tech, home, and music."
 
 [sidebar.avatar]
 enabled = true
